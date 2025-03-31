@@ -6,7 +6,7 @@
 
 ---
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gedvila&amp;show_icons=true&theme=dracula" alt="GitHub Stats" height="180em">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedvila&layout=compact&hide=html&theme=dracula" height="180em" />
 </div>
